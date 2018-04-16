@@ -1,0 +1,25 @@
+{
+  "name": "material-design-icons-module",
+  "version": "1.0.0",
+  "description": "convert material design icons to node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermeslin/material-design-icons-module.git"
+  },
+  "author": "hermeslin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hermeslin/material-design-icons-module/issues"
+  },
+  "homepage": "https://github.com/hermeslin/material-design-icons-module#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs-path": "0.0.24",
+    "material-design-icons": "^3.0.1"
+  }
+}
