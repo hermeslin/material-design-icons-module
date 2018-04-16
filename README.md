@@ -1,5 +1,5 @@
 # material-design-icons-module
-convert all material design svg icons into npm modle
+convert all material design svg icons into `npm module`
 
 ## isntall
 `npm install material-design-icons-module`
