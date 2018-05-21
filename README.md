@@ -39,3 +39,6 @@ let bookIcon = MateriaModule.load(size, icon);
 
 console.log(bookIcon);
 ```
+
+## LICENSE
+MIT Copyright 2018 [Hermes Lin](https://github.com/hermeslin)
